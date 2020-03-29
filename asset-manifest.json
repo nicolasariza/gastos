@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gastos/static/css/main.db6c011e.chunk.css",
+    "main.js": "/gastos/static/js/main.388da64c.chunk.js",
+    "main.js.map": "/gastos/static/js/main.388da64c.chunk.js.map",
+    "runtime-main.js": "/gastos/static/js/runtime-main.172f1644.js",
+    "runtime-main.js.map": "/gastos/static/js/runtime-main.172f1644.js.map",
+    "static/js/2.395ab5d3.chunk.js": "/gastos/static/js/2.395ab5d3.chunk.js",
+    "static/js/2.395ab5d3.chunk.js.map": "/gastos/static/js/2.395ab5d3.chunk.js.map",
+    "index.html": "/gastos/index.html",
+    "precache-manifest.61119a612713fc4622633b8894810087.js": "/gastos/precache-manifest.61119a612713fc4622633b8894810087.js",
+    "service-worker.js": "/gastos/service-worker.js",
+    "static/css/main.db6c011e.chunk.css.map": "/gastos/static/css/main.db6c011e.chunk.css.map",
+    "static/js/2.395ab5d3.chunk.js.LICENSE.txt": "/gastos/static/js/2.395ab5d3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/gastos/static/media/fondo.7bc3642c.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.172f1644.js",
+    "static/js/2.395ab5d3.chunk.js",
+    "static/css/main.db6c011e.chunk.css",
+    "static/js/main.388da64c.chunk.js"
+  ]
+}
